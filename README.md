@@ -12,9 +12,10 @@
 * `git push origin master` merges items in origin (working dir) to master (https)
 * `git pull https://...` acts like push, but copies from master repo (github) to local, i.e., fetches and merges. This can cause merge conflicts.
 
-Working on a project: CLONE (new) > FETCH (?) > EDIT > ADD > COMMIT > PUSH
+Working on a project: CLONE (new) > PULL > EDIT > ADD > COMMIT > PUSH
 
 ![Git File Lifecycle](./git-lifecycle.png)
+
 From [git-scm.com](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
 
 
