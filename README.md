@@ -1,4 +1,5 @@
 # Git Tutorial
+Tutorials and bits of advice for myself as I navigate Git and Github.
 
 ## Formatting MD
 
