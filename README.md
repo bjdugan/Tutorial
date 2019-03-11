@@ -12,6 +12,7 @@ Tutorials and bits of advice for myself as I navigate Git and Github.
 * `git commit -m "Some comment"` approves of queued (added) items to be merged
 * `git push origin master` merges items in origin (working dir) to master (https)
 * `git pull https://...` acts like push, but copies from master repo (github) to local, i.e., fetches and merges. This can cause merge conflicts.
+* `git push origin --force` will force a push from local to origin (github), ie overriding would-be merge conflicts if remote is behind master.
 
 Working on a project: CLONE (new) > PULL > EDIT > ADD > COMMIT > PUSH
 
